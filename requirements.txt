@@ -1,0 +1,8 @@
+duckdb
+pandas
+numpy
+matplotlib
+statsmodels
+nbformat
+nbconvert
+ipykernel

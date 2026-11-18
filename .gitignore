@@ -1,0 +1,7 @@
+.env
+01_data/raw/
+01_data/processed/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/
