@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or data pack, please cite it as below, and also credit the US Census Bureau as the source of the trade data."
+title: "Thread Count: Bangladesh garments in the US market and the 2025 to 2026 US tariffs"
+type: software
+authors:
+  - family-names: Hosen
+    given-names: Pervej
+    affiliation: "Independent researcher, Dhaka, Bangladesh"
+    email: hello@pervejhosen.com
+    orcid: "https://orcid.org/0009-0000-7913-3356"
+repository-code: "https://github.com/PervejHosen/thread-count"
+url: "https://pervejhosen.com/projects/thread-count/"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-19
+keywords:
+  - Bangladesh
+  - apparel
+  - garments
+  - international trade
+  - tariffs
+  - United States
+  - US Census Bureau
+  - open data
+abstract: >-
+  Analysis code, review checks and a data pack for an independent study of Bangladesh's garment
+  exports to the United States (HS chapters 61 and 62, monthly, product level) and the effect of
+  the 2025 to 2026 US tariffs, built from public US Census Bureau international trade data.
+  05_review/verify.py recomputes 39 headline numbers straight from the raw files.
+references:
+  - type: data
+    title: "International Trade Data API: imports by HS commodity"
+    authors:
+      - name: "U.S. Census Bureau"
+    url: "https://www.census.gov/data/developers/data-sets/international-trade.html"

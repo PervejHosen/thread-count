@@ -1,0 +1,39 @@
+{
+  "title": "Thread Count: Bangladesh garments in the US market and the 2025 to 2026 US tariffs",
+  "upload_type": "software",
+  "description": "<p>Analysis code, review checks and a data pack for an independent study of Bangladesh's garment exports to the United States (HS chapters 61 and 62, monthly, product level) and the effect of the 2025 to 2026 US tariffs, built from public US Census Bureau international trade data. 05_review/verify.py recomputes 39 headline numbers straight from the raw files.</p><p>Code is under the MIT licence. The trade data comes from the US Census Bureau; credit it when you reuse the data.</p>",
+  "creators": [
+    {
+      "name": "Hosen, Pervej",
+      "affiliation": "Independent researcher, Dhaka, Bangladesh",
+      "orcid": "0009-0000-7913-3356"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "Bangladesh",
+    "apparel",
+    "garments",
+    "international trade",
+    "tariffs",
+    "United States",
+    "US Census Bureau",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.census.gov/data/developers/data-sets/international-trade.html",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pervejhosen.com/projects/thread-count/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng"
+}
