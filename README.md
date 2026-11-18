@@ -4,7 +4,7 @@ Bangladesh garments in the US market, and what the 2025 and 2026 tariffs changed
 Pervej Hosen using public US Census Bureau trade data.
 
 - Case study: https://pervejhosen.com/projects/thread-count/
-- Live report (Power BI): REPORT_URL_PENDING
+- Live report (Power BI): https://app.powerbi.com/view?r=eyJrIjoiYzY2YWEzNzYtNDFmOC00OTgwLWE5ZjYtZmM1OGFmZjM1MmI4IiwidCI6IjIyOTM4MjRkLWE0YjQtNDNmMi1hM2ZlLWU0Mjc2YzcxNjY2NCIsImMiOjEwfQ%3D%3D
 
 ## What it found (January to September of each year, HS chapters 61 and 62)
 
